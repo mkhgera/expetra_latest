@@ -1,7 +1,7 @@
 import React from "react";
-import styles from "./module.css";
+import styles from "./modal.module.css";
 import { RiCloseLine } from "react-icons/ri";
-import modalstyles from './module.css'
+import modalstyles from "./modal.module.css"
 const Modal = ({ setIsOpen, setModalType }) => {
   const handleClose = () => {
     setIsOpen(false);
