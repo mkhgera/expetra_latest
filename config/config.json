@@ -1,0 +1,51 @@
+{
+  "site": {
+    "title": "Expetra",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "220",
+    "logo_height": "70",
+    "logo_text": "Expetra"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "Expetra - web3 budgeting app with Game-Fi elements."
+  },
+
+  "contact_info": {
+    "email": "team@expetra.org"
+  },
+
+  "metadata": {
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Expetra"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get Expetra Now",
+    "buttonIos": {
+      "label": "Download for iOS",
+      "link": "g"
+    },
+    "buttonAndroid": {
+      "label": "Download for Android",
+      "link": "g"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "expetra-dapp",
+    "settings": {}
+  }
+}
